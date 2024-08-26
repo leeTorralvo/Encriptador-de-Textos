@@ -14,4 +14,4 @@ Para usar el encriptador de textos esnecesario seguir estos siguientes pasos:
 
 ¡Saludos!
 
-Para acceder a la herramienta ingresa al siguiente link: https://brayanrodallega.github.io/encriptador-de-texto-one/
+Para acceder a la herramienta ingresa al siguiente link: https://leetorralvo.github.io/Encriptador-de-Textos/
